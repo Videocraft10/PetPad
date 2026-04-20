@@ -1,2 +1,2 @@
 # PetPad
-Custom Made Tamadochi Like Device
+Custom Made Tamagotchi Like Device
