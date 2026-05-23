@@ -1,4 +1,6 @@
 # PetPad [WIP]
+<img width="1920" height="1080" alt="PetPad Repo Cover v0" src="https://github.com/user-attachments/assets/fd22ae49-4e91-4df7-a477-ac6726181eb8" />
+
 Custom Made Tamagotchi Like Device
 
 
