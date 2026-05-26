@@ -1,3 +1,5 @@
+#include <Arduino.h>
+#line 1 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\PetPad_Firm.ino"
 // Buttons
 #define BTN1 0 // SW1 -> MCU Pin 1 -> GPIO0
 #define BTN2 1 // SW2 -> MCU Pin 2 -> GPIO1
@@ -33,17 +35,51 @@ struct Pet {
   int life; // -100 to 100 (-100 = undead, 0 = death imminet, 100 = healthy)
   unsigned long age; // total seconds Pet has lived
 
-}
-
+};
 
 Pet pet;
 
+enum Screen {
+  SCREEN_MAIN,
+  SCREEN_FEED,
+  SCREEN_PLAY,
+  SCREEN_SLEEP,
+
+};
+
+Screen currentScreen = SCREEN_MAIN;
+
+#line 50 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\PetPad_Firm.ino"
+void setup();
+#line 74 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\PetPad_Firm.ino"
+void loop();
+#line 50 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\PetPad_Firm.ino"
 void setup() {
   // put your setup code here, to run once:
+  pinMode (BTN_LEFT, INPUT_PULLUP);
+  pinMode (BTN_MIDDLE, INPUT_PULLUP);
+  pinMode (BTN_RIGHT, INPUT_PULLUP);
+  pinMode (BUZZER_PIN, OUTPUT);
 
+  display.begin(SSD1306_SWITCHCAPVCC, 0x3C);
+  display.clearDisplay();
+  display.setTextSize(1);
+  display.setTextColor(SSD1306_WHITE);
+  display.setCursor(0, 0);
+  display.println("PetPad is loading...");
+  display.display();
+  delay(1000);
+
+  pet.hunger = 80;
+  pet.love = 50;
+  pet.energy = 80;
+  pet.life = 100;
+  pet.age = 0;
+  
 }
 
 void loop() {
   // put your main code here, to run repeatedly:
 
 }
+
