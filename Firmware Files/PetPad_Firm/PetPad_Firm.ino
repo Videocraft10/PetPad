@@ -28,9 +28,9 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
 struct Pet {
   int hunger; // 0 to 200 (0 = starving, 100 = full, 200 = overfed)
-  int love; // 0 to 100 (0 = depressed, 25 = sad, 50 = nutrual, 75 = happy, 100 = best day ever!)
+  int love; // 0 to 100 (0 = depressed, 25 = sad, 50 = neutral, 75 = happy, 100 = best day ever!)
   int energy; // 0 to 200 (0 = exhausted, 100 = full, 200 = hyper)
-  int life; // -100 to 100 (-100 = undead, 0 = death imminet, 100 = healthy)
+  int life; // -100 to 100 (-100 = undead, 0 = death imminent, 100 = healthy)
   unsigned long age; // total seconds Pet has lived
 
 };
@@ -71,27 +71,39 @@ void setup() {
   
 }
 
-void loop() {
-  // put your main code here, to run repeatedly:
-  
-}
-
 unsigned long lastUpdate = 0;
 
 void updatePet() {
-  if (millis() - lastUpdate > 5000) { //every 5 sec
-    pet.hunger --;
-    pet.energy --;
-    pet.love --;
-  
+  // run updates every 5 seconds
+  if (millis() - lastUpdate > 5000) {
+    // decay basic stats
+    pet.hunger--;
+    pet.energy--;
+    pet.love--;
+
+    // life changes based on current stats
+    if (pet.hunger < 30 || pet.energy < 30 || pet.love < 30) { // low stats: apply penalty
+      pet.life -= 5;                                           // unhealthy penalty
+    } else if (pet.hunger > 150 || pet.energy > 150) {         // overfeeding/over-hyper                          
+      pet.life -= 5;
+    } else if (pet.hunger > 70 && pet.energy > 70 && pet.love > 70) { // all stats are good
+      pet.life += 5;
+    } else {
+      pet.life += 1;                                           // healthy conditions give a small life boost
+    }
+    
+    // Clamp
+    if (pet.life > 100) pet.life = 100;
+    if (pet.life < -100) pet.life = -100;
     if (pet.hunger < 0) pet.hunger = 0;
     if (pet.energy < 0) pet.energy = 0;
     if (pet.love < 0) pet.love = 0;
-  
+
+    // age update
     pet.age += 5;
     lastUpdate = millis();
   }
- 
+
 }
 
 unsigned long lastButtonPress = 0;
@@ -300,7 +312,7 @@ const unsigned char* allArray[4] = {
 void render () {
   display.clearDisplay();
 
-  // Chose sprite based on stats
+  // Choose sprite based on stats
   const unsigned char* sprite;
   if (pet.hunger < 30 || pet.energy < 30 || pet.love < 30 || pet.life < 20) {
     sprite = Kona_Sad;
@@ -346,3 +358,13 @@ void drawBar(int x, int y, int value, int maxValue) {
   display.fillRect(x, y, filledWidth, barHeight, SSD1306_WHITE);  //Filled part
   display.drawRect(x, y, barWidth, barHeight, SSD1306_WHITE);     //Outline
 }
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  checkButtons();         // 1. Read input
+  updatePet();            // 2. Update pet stats over time
+  handleScreenLogic();    // 3. Process actions
+  render();               // 4. Update display
+  delay(100);             // 5. Small delay
+}
+
