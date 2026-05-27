@@ -3,11 +3,67 @@
 
 Custom Made Tamagotchi Like Device
 
+## Features
+
+### Physical
+1. USB - C rechargeable 500 mAh battery
+2. 3 Tactile buttons for control
+3. Buzzer for sound feedback
+4. 128x64 OLED Screen
+
+### Digital
+1. [WIP] Multiple Pets to obtain
+2. Take care (or dont) of your pets to see the visuals change
+3. [WIP] Use items obtained randomly on your pets for effects
+
+## Why?
+I wanted to create this for a couple of reasons:
+1. I wanted a more complex project to work on
+2. Tamagochis are fun and allow me to practice some pixel art skills too
+3. and finally because there was a great guide on the fallout docs :)
+
+## The PCB
+The PCB was made in KiCAD due to the extensive tools and ablity to import own footprints that might not be on EasyEDA
+
+### The Schematic
+<img width="1074" height="805" alt="image" src="https://github.com/user-attachments/assets/028acbca-4915-4a2e-b609-9bfe3dfdbc85" />
+
+### The Circuit Board
+
+**Front**
+
+
+<img width="603" height="847" alt="image" src="https://github.com/user-attachments/assets/293aed44-49d1-4aa3-a59a-64843eab9f33" />
+
+**Back**
+
+
+<img width="597" height="860" alt="image" src="https://github.com/user-attachments/assets/3d0ea54c-da11-483c-93a1-c0100afb5243" />
+
+## The Case
+
+**Overview**
 
 
 
+<img width="949" height="709" alt="image" src="https://github.com/user-attachments/assets/e08d1e05-0cfd-4af1-86b1-571a161c40e4" />
 
 
+**Top**
+
+
+<img width="549" height="778" alt="image" src="https://github.com/user-attachments/assets/cc2db98a-4f17-4f37-b970-50be607f5556" />
+
+
+**Inside cut**
+
+
+<img width="1703" height="602" alt="image" src="https://github.com/user-attachments/assets/145f2468-1c70-4d1c-9984-f44c0ee7a6a7" />
+
+**Bottom**
+
+
+<img width="471" height="732" alt="image" src="https://github.com/user-attachments/assets/4f5b7f19-6045-4567-8b34-3bd0e5b7a91b" />
 
 
 ## BOM
@@ -36,3 +92,13 @@ Custom Made Tamagotchi Like Device
 | Handling | -------- | -------- | -------- | -------- | $3 |
 | -------- | -------- | -------- | -------- | -------- | -------- |
 | ***GRAND TOTAL*** | -------- | -------- | -------- | -------- | [WIP] |
+
+## How to use
+[WIP]
+
+## Software Used
+1. KiCAD
+2. Autodesk Fuesion
+3. Blender
+4. Visual Studio Code
+5. Arduino IDE
