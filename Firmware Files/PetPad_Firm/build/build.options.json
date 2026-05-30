@@ -1,9 +1,0 @@
-{
-  "additionalFiles": "..\\..\\..",
-  "compiler.optimization_flags": "-Os",
-  "customBuildProperties": "",
-  "fqbn": "esp32:esp32:XIAO_ESP32C6:UploadSpeed=921600,CDCOnBoot=cdc,CPUFreq=160,FlashFreq=80,FlashMode=qio,FlashSize=4M,PartitionScheme=default,DebugLevel=none,EraseFlash=none,JTAGAdapter=default,ZigbeeMode=default",
-  "hardwareFolders": "C:\\Users\\video\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.8,C:\\Users\\video\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.8",
-  "otherLibrariesFolders": "c:\\Users\\video\\OneDrive\\Documents\\Arduino\\libraries",
-  "sketchLocation": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm"
-}

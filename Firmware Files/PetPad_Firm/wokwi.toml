@@ -1,0 +1,11 @@
+[wokwi]
+version = 1
+# For Arduino/ESP32 projects use the compiled .bin (or .elf) under build/
+firmware = 'build/build_profile-1779664490438/PetPad_Firm.ino.bin'
+# Optional ELF to speed up simulation
+elf = 'build/build_profile-1779664490438/PetPad_Firm.ino.elf'
+# Enable RFC2217 serial forwarding so you can connect with a serial client
+# (e.g. RFC2217://localhost:4000) while the simulator runs in VS Code.
+rfc2217ServerPort = 4000
+# Optionally save logic analyzer captures to this file
+vcdFile = 'wokwi.vcd'

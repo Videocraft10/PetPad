@@ -1,3 +1,5 @@
+#include <Arduino.h>
+#line 1 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\PetPad_Firm.ino"
 // Buttons
 #define BTN1 0 // SW1 -> MCU Pin 1 -> GPIO0
 #define BTN2 1 // SW2 -> MCU Pin 2 -> GPIO1
@@ -45,6 +47,21 @@ enum Screen {
 
 Screen currentScreen = SCREEN_MAIN;
 
+#line 48 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\PetPad_Firm.ino"
+void setup();
+#line 90 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\PetPad_Firm.ino"
+void updatePet();
+#line 119 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\PetPad_Firm.ino"
+void checkButtons();
+#line 136 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\PetPad_Firm.ino"
+void handleScreenLogic();
+#line 313 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\PetPad_Firm.ino"
+void drawBar(int x, int y, int value, int maxValue);
+#line 324 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\PetPad_Firm.ino"
+void render();
+#line 357 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\PetPad_Firm.ino"
+void loop();
+#line 48 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\PetPad_Firm.ino"
 void setup() {
   Serial.begin(115200);
   delay(10);
@@ -361,4 +378,5 @@ void loop() {
   render();
   delay(100);
 }
+
 

@@ -1,0 +1,20 @@
+#line 1 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\.vscode\\arduino.json"
+{
+  "port": "COM3",
+  "configuration": "UploadSpeed=921600,CDCOnBoot=cdc,CPUFreq=160,FlashFreq=80,FlashMode=qio,FlashSize=4M,PartitionScheme=default,DebugLevel=none,EraseFlash=none,JTAGAdapter=default,ZigbeeMode=default",
+  "output": "build",
+  "board": "esp32:esp32:XIAO_ESP32C6",
+  "programmer": "esptool",
+  "useProgrammer": false,
+  "optimize_for_debug": false,
+  "configurationRequired": true,
+  "compile_profile": "profile-1779664490438",
+  "monitorPortSettings": {
+    "port": "COM3",
+    "baudRate": 115200,
+    "lineEnding": "\r\n",
+    "dataBits": 8,
+    "parity": "none",
+    "stopBits": "one"
+  }
+}

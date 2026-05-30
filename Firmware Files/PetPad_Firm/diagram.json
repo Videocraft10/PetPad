@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "author": "PetPad Project",
+  "editor": "wokwi",
+  "title": "PetPad Firmware Simulator",
+  "description": "Physical-style PetPad build with XIAO ESP32-C6, 0.96in I2C OLED, buttons, and buzzer",
+  "parts": [
+    {
+      "type": "board-xiao-esp32-c6",
+      "id": "board",
+      "top": 305.03,
+      "left": 167.82,
+      "rotate": 180,
+      "attrs": { "name": "XIAO ESP32-C6" }
+    },
+    {
+      "type": "board-ssd1306",
+      "id": "oled",
+      "top": 120,
+      "left": 170,
+      "attrs": { "width": "128", "height": "64" }
+    },
+    {
+      "type": "wokwi-pushbutton",
+      "id": "btn1",
+      "top": 240,
+      "left": 80,
+      "attrs": { "color": "red" }
+    },
+    {
+      "type": "wokwi-pushbutton",
+      "id": "btn2",
+      "top": 236.6,
+      "left": 172.8,
+      "attrs": { "color": "green" }
+    },
+    {
+      "type": "wokwi-pushbutton",
+      "id": "btn3",
+      "top": 240,
+      "left": 260,
+      "attrs": { "color": "blue" }
+    },
+    { "type": "wokwi-buzzer", "id": "buzzer", "top": 2.4, "left": 184.2, "attrs": {} }
+  ],
+  "connections": [
+    [ "board:D0", "btn1:1.r", "green", [ "h-76.8", "v-121.4" ] ],
+    [ "btn1:2.r", "board:GND", "green", [ "v25.6", "h-22.2", "v9.6", "h-9.6", "v57.6" ] ],
+    [ "board:D1", "btn2:1.r", "green", [ "h0" ] ],
+    [ "btn2:2.r", "board:GND", "green", [ "h-93", "v16" ] ],
+    [ "btn3:1.r", "board:D2", "green", [ "v0" ] ],
+    [ "btn3:2.r", "board:GND", "green", [ "h0" ] ],
+    [ "board:D22", "oled:SDA", "green", [ "h0" ] ],
+    [ "board:D23", "oled:SCL", "green", [ "h0" ] ],
+    [ "oled:VCC", "board:3V3", "red", [ "v0" ] ],
+    [ "oled:GND", "board:GND", "black", [ "v0" ] ],
+    [ "board:D10", "buzzer:1", "green", [ "h0" ] ],
+    [ "buzzer:2", "board:GND", "green", [ "v0" ] ]
+  ],
+  "dependencies": {}
+}

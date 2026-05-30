@@ -1,0 +1,138 @@
+#line 1 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\diagram.json"
+{
+  "version": 1,
+  "author": "PetPad Project",
+  "editor": "wokwi",
+  "title": "PetPad Firmware Simulator",
+  "description": "Physical-style PetPad build with XIAO ESP32-C6, 0.96in I2C OLED, buttons, and buzzer",
+  "parts": [
+    {
+      "type": "board-xiao-esp32-c6",
+      "id": "board",
+      "top": 340,
+      "left": 170,
+      "rotate": 180,
+      "attrs": {
+        "name": "XIAO ESP32-C6"
+      }
+    },
+    {
+      "type": "board-ssd1306",
+      "id": "oled",
+      "top": 120,
+      "left": 170,
+      "attrs": {
+        "width": "128",
+        "height": "64"
+      }
+    },
+    {
+      "type": "wokwi-pushbutton",
+      "id": "btn1",
+      "top": 240,
+      "left": 80,
+      "attrs": {
+        "color": "red"
+      }
+    },
+    {
+      "type": "wokwi-pushbutton",
+      "id": "btn2",
+      "top": 240,
+      "left": 170,
+      "attrs": {
+        "color": "green"
+      }
+    },
+    {
+      "type": "wokwi-pushbutton",
+      "id": "btn3",
+      "top": 240,
+      "left": 260,
+      "attrs": {
+        "color": "blue"
+      }
+    },
+    {
+      "type": "wokwi-buzzer",
+      "id": "buzzer",
+      "top": 20,
+      "left": 220,
+      "attrs": {}
+    }
+  ],
+  "connections": [
+    [
+      "board.GPIO0",
+      "btn1.1",
+      "black",
+      []
+    ],
+    [
+      "btn1.2",
+      "board.GND",
+      "black",
+      []
+    ],
+    [
+      "board.GPIO1",
+      "btn2.1",
+      "black",
+      []
+    ],
+    [
+      "btn2.2",
+      "board.GND",
+      "black",
+      []
+    ],
+    [
+      "board.GPIO2",
+      "btn3.1",
+      "black",
+      []
+    ],
+    [
+      "btn3.2",
+      "board.GND",
+      "black",
+      []
+    ],
+    [
+      "board.GPIO18",
+      "buzzer.1",
+      "red",
+      []
+    ],
+    [
+      "board.GND",
+      "buzzer.2",
+      "black",
+      []
+    ],
+    [
+      "board.GPIO22",
+      "oled.SDA",
+      "green",
+      []
+    ],
+    [
+      "board.GPIO23",
+      "oled.SCL",
+      "yellow",
+      []
+    ],
+    [
+      "board.3V3",
+      "oled.VCC",
+      "red",
+      []
+    ],
+    [
+      "board.GND",
+      "oled.GND",
+      "black",
+      []
+    ]
+  ]
+}
