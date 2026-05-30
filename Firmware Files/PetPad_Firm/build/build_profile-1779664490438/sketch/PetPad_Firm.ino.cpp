@@ -48,20 +48,31 @@ enum Screen {
 Screen currentScreen = SCREEN_MAIN;
 
 #line 48 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\PetPad_Firm.ino"
+void logPetStats(const char* source);
+#line 57 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\PetPad_Firm.ino"
 void setup();
-#line 90 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\PetPad_Firm.ino"
+#line 99 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\PetPad_Firm.ino"
 void updatePet();
-#line 119 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\PetPad_Firm.ino"
+#line 129 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\PetPad_Firm.ino"
 void checkButtons();
-#line 136 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\PetPad_Firm.ino"
+#line 146 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\PetPad_Firm.ino"
 void handleScreenLogic();
-#line 313 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\PetPad_Firm.ino"
+#line 326 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\PetPad_Firm.ino"
 void drawBar(int x, int y, int value, int maxValue);
-#line 324 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\PetPad_Firm.ino"
+#line 337 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\PetPad_Firm.ino"
 void render();
-#line 357 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\PetPad_Firm.ino"
+#line 378 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\PetPad_Firm.ino"
 void loop();
 #line 48 "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\PetPad_Firm.ino"
+void logPetStats(const char* source) {
+  Serial.print(source);
+  Serial.print(": hunger="); Serial.print(pet.hunger);
+  Serial.print(" love="); Serial.print(pet.love);
+  Serial.print(" energy="); Serial.print(pet.energy);
+  Serial.print(" life="); Serial.print(pet.life);
+  Serial.print(" age="); Serial.println(pet.age);
+}
+
 void setup() {
   Serial.begin(115200);
   delay(10);
@@ -128,6 +139,7 @@ void updatePet() {
 
     pet.age += 5;
     lastUpdate = millis();
+    logPetStats("Pet tick updated");
   }
 }
 
@@ -155,6 +167,7 @@ void handleScreenLogic() {
     case SCREEN_FEED:
       pet.hunger += 10;
       if (pet.hunger > 200) pet.hunger = 200;
+      logPetStats("Feed updated");
       currentScreen = SCREEN_MAIN;
       break;
     case SCREEN_PLAY:
@@ -162,11 +175,13 @@ void handleScreenLogic() {
       pet.energy -= 5;
       if (pet.love > 100) pet.love = 100;
       if (pet.energy < 0) pet.energy = 0;
+      logPetStats("Play updated");
       currentScreen = SCREEN_MAIN;
       break;
     case SCREEN_SLEEP:
       pet.energy += 15;
       if (pet.energy > 200) pet.energy = 200;
+      logPetStats("Sleep updated");
       currentScreen = SCREEN_MAIN;
       break;
     case SCREEN_MAIN:
@@ -344,29 +359,37 @@ void render() {
   const unsigned char* sprite;
   if (pet.hunger < 30 || pet.energy < 30 || pet.love < 30 || pet.life < 20) {
     sprite = Kona_Sad;
-  } else if (pet.hunger > 70 && pet.energy > 70 && pet.love > 70) {
+  } else if (pet.hunger > 70 && pet.energy > 70 && pet.love > 70 && pet.life > 60) {
     sprite = Kona_Happy;
   } else {
     sprite = Kona_Neutral;
   }
 
-  display.drawBitmap((SCREEN_WIDTH - 32) / 2, 5, sprite, 32, 32, SSD1306_WHITE);
+  display.drawBitmap((SCREEN_WIDTH - 32) / 1.3, 10, sprite, 32, 32, SSD1306_WHITE);
   display.setTextSize(1);
 
+  display.setCursor(0, 14);
+  display.print("LIF");
+  display.setCursor(30, 14);
+  display.print(pet.life);
+
   display.setCursor(0, 24);
-  display.print("HUN");
-  drawBar(30, 24, pet.hunger, 200);
+  display.print("LOV");
+  display.setCursor(30, 24);
+  display.print(pet.love);
 
   display.setCursor(0, 34);
-  display.print("LOV");
-  drawBar(30, 34, pet.love, 100);
+  display.print("HUN");
+  display.setCursor(30, 34);
+  display.print(pet.hunger);
 
   display.setCursor(0, 44);
   display.print("ENE");
-  drawBar(30, 44, pet.energy, 200);
+  display.setCursor(30, 44);
+  display.print(pet.energy);
 
   display.setCursor(0, 56);
-  display.println("[Feed]   [Play]   [Sleep]");
+  display.println("[Feed] [Play] [Sleep]");
 
   display.display();
 }

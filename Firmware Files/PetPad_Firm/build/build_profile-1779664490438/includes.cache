@@ -16,9 +16,9 @@
   },
   {
     "compile": {
-      "source_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\sketch\\PetPad_Firm.ino.cpp",
-      "object_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\sketch\\PetPad_Firm.ino.cpp.o",
-      "depfile_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\sketch\\PetPad_Firm.ino.cpp.d"
+      "source_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\sketch\\PetPad_Firm.ino.cpp",
+      "object_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\sketch\\PetPad_Firm.ino.cpp.o",
+      "depfile_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\sketch\\PetPad_Firm.ino.cpp.d"
     },
     "compile_task": {
       "args": [
@@ -57,9 +57,9 @@
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_BusIO_1.17.4_7b46ea3f5fdb9ecd\\Adafruit BusIO",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_GFX_Library_1.12.6_7debcc7eb665e7d6\\Adafruit GFX Library",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_SSD1306_2.5.16_c8af309e68a0da66\\Adafruit SSD1306",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
-        "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\sketch\\PetPad_Firm.ino.cpp",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
+        "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\sketch\\PetPad_Firm.ino.cpp",
         "-o",
         "nul"
       ]
@@ -73,9 +73,9 @@
   },
   {
     "compile": {
-      "source_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\sketch\\PetPad_Firm.ino.cpp",
-      "object_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\sketch\\PetPad_Firm.ino.cpp.o",
-      "depfile_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\sketch\\PetPad_Firm.ino.cpp.d"
+      "source_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\sketch\\PetPad_Firm.ino.cpp",
+      "object_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\sketch\\PetPad_Firm.ino.cpp.o",
+      "depfile_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\sketch\\PetPad_Firm.ino.cpp.d"
     },
     "compile_task": {
       "args": [
@@ -115,9 +115,9 @@
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_GFX_Library_1.12.6_7debcc7eb665e7d6\\Adafruit GFX Library",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_SSD1306_2.5.16_c8af309e68a0da66\\Adafruit SSD1306",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\Wire\\src",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
-        "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\sketch\\PetPad_Firm.ino.cpp",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
+        "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\sketch\\PetPad_Firm.ino.cpp",
         "-o",
         "nul"
       ]
@@ -131,9 +131,9 @@
   },
   {
     "compile": {
-      "source_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\sketch\\PetPad_Firm.ino.cpp",
-      "object_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\sketch\\PetPad_Firm.ino.cpp.o",
-      "depfile_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\sketch\\PetPad_Firm.ino.cpp.d"
+      "source_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\sketch\\PetPad_Firm.ino.cpp",
+      "object_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\sketch\\PetPad_Firm.ino.cpp.o",
+      "depfile_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\sketch\\PetPad_Firm.ino.cpp.d"
     },
     "compile_task": {
       "args": [
@@ -174,9 +174,9 @@
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_SSD1306_2.5.16_c8af309e68a0da66\\Adafruit SSD1306",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\Wire\\src",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\SPI\\src",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
-        "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\sketch\\PetPad_Firm.ino.cpp",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
+        "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\sketch\\PetPad_Firm.ino.cpp",
         "-o",
         "nul"
       ]
@@ -188,8 +188,8 @@
   {
     "compile": {
       "source_path": "C:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_BusIO_1.17.4_7b46ea3f5fdb9ecd\\Adafruit BusIO\\Adafruit_BusIO_Register.cpp",
-      "object_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit BusIO\\Adafruit_BusIO_Register.cpp.o",
-      "depfile_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit BusIO\\Adafruit_BusIO_Register.cpp.d"
+      "object_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit BusIO\\Adafruit_BusIO_Register.cpp.o",
+      "depfile_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit BusIO\\Adafruit_BusIO_Register.cpp.d"
     },
     "compile_task": {
       "args": [
@@ -230,8 +230,8 @@
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_SSD1306_2.5.16_c8af309e68a0da66\\Adafruit SSD1306",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\Wire\\src",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\SPI\\src",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
         "C:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_BusIO_1.17.4_7b46ea3f5fdb9ecd\\Adafruit BusIO\\Adafruit_BusIO_Register.cpp",
         "-o",
         "nul"
@@ -244,8 +244,8 @@
   {
     "compile": {
       "source_path": "C:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_BusIO_1.17.4_7b46ea3f5fdb9ecd\\Adafruit BusIO\\Adafruit_GenericDevice.cpp",
-      "object_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit BusIO\\Adafruit_GenericDevice.cpp.o",
-      "depfile_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit BusIO\\Adafruit_GenericDevice.cpp.d"
+      "object_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit BusIO\\Adafruit_GenericDevice.cpp.o",
+      "depfile_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit BusIO\\Adafruit_GenericDevice.cpp.d"
     },
     "compile_task": {
       "args": [
@@ -286,8 +286,8 @@
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_SSD1306_2.5.16_c8af309e68a0da66\\Adafruit SSD1306",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\Wire\\src",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\SPI\\src",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
         "C:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_BusIO_1.17.4_7b46ea3f5fdb9ecd\\Adafruit BusIO\\Adafruit_GenericDevice.cpp",
         "-o",
         "nul"
@@ -300,8 +300,8 @@
   {
     "compile": {
       "source_path": "C:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_BusIO_1.17.4_7b46ea3f5fdb9ecd\\Adafruit BusIO\\Adafruit_I2CDevice.cpp",
-      "object_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit BusIO\\Adafruit_I2CDevice.cpp.o",
-      "depfile_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit BusIO\\Adafruit_I2CDevice.cpp.d"
+      "object_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit BusIO\\Adafruit_I2CDevice.cpp.o",
+      "depfile_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit BusIO\\Adafruit_I2CDevice.cpp.d"
     },
     "compile_task": {
       "args": [
@@ -342,8 +342,8 @@
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_SSD1306_2.5.16_c8af309e68a0da66\\Adafruit SSD1306",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\Wire\\src",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\SPI\\src",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
         "C:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_BusIO_1.17.4_7b46ea3f5fdb9ecd\\Adafruit BusIO\\Adafruit_I2CDevice.cpp",
         "-o",
         "nul"
@@ -356,8 +356,8 @@
   {
     "compile": {
       "source_path": "C:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_BusIO_1.17.4_7b46ea3f5fdb9ecd\\Adafruit BusIO\\Adafruit_SPIDevice.cpp",
-      "object_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit BusIO\\Adafruit_SPIDevice.cpp.o",
-      "depfile_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit BusIO\\Adafruit_SPIDevice.cpp.d"
+      "object_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit BusIO\\Adafruit_SPIDevice.cpp.o",
+      "depfile_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit BusIO\\Adafruit_SPIDevice.cpp.d"
     },
     "compile_task": {
       "args": [
@@ -398,8 +398,8 @@
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_SSD1306_2.5.16_c8af309e68a0da66\\Adafruit SSD1306",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\Wire\\src",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\SPI\\src",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
         "C:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_BusIO_1.17.4_7b46ea3f5fdb9ecd\\Adafruit BusIO\\Adafruit_SPIDevice.cpp",
         "-o",
         "nul"
@@ -412,8 +412,8 @@
   {
     "compile": {
       "source_path": "C:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_GFX_Library_1.12.6_7debcc7eb665e7d6\\Adafruit GFX Library\\Adafruit_GFX.cpp",
-      "object_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit GFX Library\\Adafruit_GFX.cpp.o",
-      "depfile_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit GFX Library\\Adafruit_GFX.cpp.d"
+      "object_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit GFX Library\\Adafruit_GFX.cpp.o",
+      "depfile_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit GFX Library\\Adafruit_GFX.cpp.d"
     },
     "compile_task": {
       "args": [
@@ -454,8 +454,8 @@
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_SSD1306_2.5.16_c8af309e68a0da66\\Adafruit SSD1306",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\Wire\\src",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\SPI\\src",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
         "C:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_GFX_Library_1.12.6_7debcc7eb665e7d6\\Adafruit GFX Library\\Adafruit_GFX.cpp",
         "-o",
         "nul"
@@ -468,8 +468,8 @@
   {
     "compile": {
       "source_path": "C:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_GFX_Library_1.12.6_7debcc7eb665e7d6\\Adafruit GFX Library\\Adafruit_GrayOLED.cpp",
-      "object_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit GFX Library\\Adafruit_GrayOLED.cpp.o",
-      "depfile_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit GFX Library\\Adafruit_GrayOLED.cpp.d"
+      "object_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit GFX Library\\Adafruit_GrayOLED.cpp.o",
+      "depfile_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit GFX Library\\Adafruit_GrayOLED.cpp.d"
     },
     "compile_task": {
       "args": [
@@ -510,8 +510,8 @@
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_SSD1306_2.5.16_c8af309e68a0da66\\Adafruit SSD1306",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\Wire\\src",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\SPI\\src",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
         "C:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_GFX_Library_1.12.6_7debcc7eb665e7d6\\Adafruit GFX Library\\Adafruit_GrayOLED.cpp",
         "-o",
         "nul"
@@ -524,8 +524,8 @@
   {
     "compile": {
       "source_path": "C:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_GFX_Library_1.12.6_7debcc7eb665e7d6\\Adafruit GFX Library\\Adafruit_SPITFT.cpp",
-      "object_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit GFX Library\\Adafruit_SPITFT.cpp.o",
-      "depfile_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit GFX Library\\Adafruit_SPITFT.cpp.d"
+      "object_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit GFX Library\\Adafruit_SPITFT.cpp.o",
+      "depfile_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit GFX Library\\Adafruit_SPITFT.cpp.d"
     },
     "compile_task": {
       "args": [
@@ -566,8 +566,8 @@
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_SSD1306_2.5.16_c8af309e68a0da66\\Adafruit SSD1306",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\Wire\\src",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\SPI\\src",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
         "C:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_GFX_Library_1.12.6_7debcc7eb665e7d6\\Adafruit GFX Library\\Adafruit_SPITFT.cpp",
         "-o",
         "nul"
@@ -580,8 +580,8 @@
   {
     "compile": {
       "source_path": "C:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_GFX_Library_1.12.6_7debcc7eb665e7d6\\Adafruit GFX Library\\glcdfont.c",
-      "object_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit GFX Library\\glcdfont.c.o",
-      "depfile_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit GFX Library\\glcdfont.c.d"
+      "object_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit GFX Library\\glcdfont.c.o",
+      "depfile_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit GFX Library\\glcdfont.c.d"
     },
     "compile_task": {
       "args": [
@@ -622,8 +622,8 @@
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_SSD1306_2.5.16_c8af309e68a0da66\\Adafruit SSD1306",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\Wire\\src",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\SPI\\src",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
         "C:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_GFX_Library_1.12.6_7debcc7eb665e7d6\\Adafruit GFX Library\\glcdfont.c",
         "-o",
         "nul"
@@ -636,8 +636,8 @@
   {
     "compile": {
       "source_path": "C:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_SSD1306_2.5.16_c8af309e68a0da66\\Adafruit SSD1306\\Adafruit_SSD1306.cpp",
-      "object_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit SSD1306\\Adafruit_SSD1306.cpp.o",
-      "depfile_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit SSD1306\\Adafruit_SSD1306.cpp.d"
+      "object_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit SSD1306\\Adafruit_SSD1306.cpp.o",
+      "depfile_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Adafruit SSD1306\\Adafruit_SSD1306.cpp.d"
     },
     "compile_task": {
       "args": [
@@ -678,8 +678,8 @@
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_SSD1306_2.5.16_c8af309e68a0da66\\Adafruit SSD1306",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\Wire\\src",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\SPI\\src",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
         "C:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_SSD1306_2.5.16_c8af309e68a0da66\\Adafruit SSD1306\\Adafruit_SSD1306.cpp",
         "-o",
         "nul"
@@ -692,8 +692,8 @@
   {
     "compile": {
       "source_path": "C:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\Wire\\src\\Wire.cpp",
-      "object_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Wire\\Wire.cpp.o",
-      "depfile_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Wire\\Wire.cpp.d"
+      "object_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Wire\\Wire.cpp.o",
+      "depfile_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\Wire\\Wire.cpp.d"
     },
     "compile_task": {
       "args": [
@@ -734,8 +734,8 @@
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_SSD1306_2.5.16_c8af309e68a0da66\\Adafruit SSD1306",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\Wire\\src",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\SPI\\src",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
         "C:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\Wire\\src\\Wire.cpp",
         "-o",
         "nul"
@@ -748,8 +748,8 @@
   {
     "compile": {
       "source_path": "C:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\SPI\\src\\SPI.cpp",
-      "object_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\SPI\\SPI.cpp.o",
-      "depfile_path": "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\SPI\\SPI.cpp.d"
+      "object_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\SPI\\SPI.cpp.o",
+      "depfile_path": "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\libraries\\SPI\\SPI.cpp.d"
     },
     "compile_task": {
       "args": [
@@ -790,8 +790,8 @@
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_SSD1306_2.5.16_c8af309e68a0da66\\Adafruit SSD1306",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\Wire\\src",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\SPI\\src",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
         "C:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\SPI\\src\\SPI.cpp",
         "-o",
         "nul"

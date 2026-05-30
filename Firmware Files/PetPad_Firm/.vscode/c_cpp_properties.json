@@ -53,11 +53,11 @@
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\Adafruit_SSD1306_2.5.16_c8af309e68a0da66\\Adafruit SSD1306",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\Wire\\src",
         "-IC:\\Users\\video\\AppData\\Local\\Arduino15\\internal\\esp32_esp32_3.3.8_875c2733cc370a76\\libraries\\SPI\\src",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
-        "@c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
-        "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\sketch\\PetPad_Firm.ino.cpp",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/build_opt.h",
+        "@C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438/file_opts",
+        "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\sketch\\PetPad_Firm.ino.cpp",
         "-o",
-        "c:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\sketch\\PetPad_Firm.ino.cpp.o"
+        "C:\\Users\\video\\OneDrive\\Documents\\GitHub\\PetPad\\Firmware Files\\PetPad_Firm\\build\\build_profile-1779664490438\\sketch\\PetPad_Firm.ino.cpp.o"
       ],
       "defines": [
         "F_CPU=160000000L",
