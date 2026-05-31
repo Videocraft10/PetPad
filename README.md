@@ -106,5 +106,8 @@ Visible stats that change over time with visual feedback on overall pets health
 1. KiCAD
 2. Autodesk Fuesion
 3. Blender
-4. Visual Studio Code
+4. Visual Studio Code (Arduino Maker Workshop & Wokwi extentsions)
 5. Arduino IDE
+6. Adobe Photoshop
+7. Adobe Preimire Pro
+8. Visual Studio Code
