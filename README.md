@@ -65,6 +65,12 @@ The PCB was made in KiCAD due to the extensive tools and ablity to import own fo
 
 <img width="471" height="732" alt="image" src="https://github.com/user-attachments/assets/4f5b7f19-6045-4567-8b34-3bd0e5b7a91b" />
 
+## The Firmware
+<img width="832" height="446" alt="Firmware Video" src="https://github.com/user-attachments/assets/d2fcfda3-3c85-4c98-bc8f-e3dd0d67888c" />
+
+
+Visible stats that change over time with visual feedback on overall pets health
+
 
 ## BOM
 *Amount used is to make ***ONE*** PetPad*
