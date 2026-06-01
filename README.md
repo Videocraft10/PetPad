@@ -5,6 +5,9 @@
 Custom Made Tamagotchi Like Device
 
 ## Features
+<img width="2480" height="3508" alt="Videocraft PetPad Zine 6-1-26" src="https://github.com/user-attachments/assets/df30a041-eb7c-41c3-90ef-17586a58def2" />
+
+
 
 ### Physical
 1. USB - C rechargeable 500 mAh battery
