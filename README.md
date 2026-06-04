@@ -96,12 +96,12 @@ Visible stats that change over time with visual feedback on overall pets health
 | Wires | [Adafurit](https://www.adafruit.com/product/3169) | $4.95 | less than a foot most likely | Silicone Cover Stranded-Core Wire - 50ft 30AWG | $4.95 |
 | Case PLA | -------- | $8.34 for 1 kg | -------- | Generic 3D printer PLA. Requires a 3D printer to use | -------- |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| *Total:* | -------- | -------- | -------- | -------- | $17.29* |
+| *Total:* | -------- | -------- | -------- | -------- | $37.98 |
 | **Fees:** | -------- | -------- | -------- | -------- | -------- |
 | Shipping | -------- | -------- | -------- | -------- | $9.32 |
 | Handling | -------- | -------- | -------- | -------- | $3 |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| ***GRAND TOTAL*** | -------- | -------- | -------- | -------- | [WIP] |
+| ***GRAND TOTAL*** | -------- | -------- | -------- | -------- | $50.30 (fee prices not locken in yet) |
 
 ## How to use
 [WIP]
