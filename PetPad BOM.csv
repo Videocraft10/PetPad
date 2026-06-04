@@ -1,0 +1,21 @@
+Item,LCSC # / Item Links,Single Cost,Amount Used,Fees/Notes,Total Price
+**PCB:**,,$2.00,1,$3.12 for shipping,$5.12
+**Components:**,,,,,
+OLED Screen,C5248080,$2.32,1,,$2.32
+Buzzer,C49246964,$0.06,1,Forced to buy 10,$0.57
+Buttons,C2888493,$0.01,3,Forced to buy 50,$0.54
+JST Battery Connector,C131337,$0.03,1,Forced to buy 20,$0.67
+7 Pin Header,C5360900,$0.04,2,Forced to buy 10,$0.39
+4 Pin Header,C42431787,$0.02,1,Forced to buy 20,$0.41
+Seeed Studio XIAO C6 DIP,Amazon,$11.99,1,$0.79 tax,$12.78
+Battery (500mAh),AliExpress,$5.90,1,"NOTE: WELCOME DEAL USED, NORMAL PRICE $14.23",$5.90
+Screws (M2.5 x 5mm),Homedepo,$0.43,4*,10 pack,$4.33
+Wires,Adafurit,$4.95,less than a foot most likely,Silicone Cover Stranded-Core Wire - 50ft 30AWG,$4.95
+Case PLA,,$8.34 for 1 kg,,Generic 3D printer PLA. Requires a 3D printer to use,
+*Total:*,,,,,$37.98
+**Fees:**,,,,,
+Shipping,,,,,$9.32
+Handling,,,,,$3.00
+***GRAND TOTAL***,,,,,$50.30 (fee prices not locken in yet)
+,,,,,
+Amount for one PetPad,,,,,
