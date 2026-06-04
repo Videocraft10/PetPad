@@ -103,8 +103,16 @@ Visible stats that change over time with visual feedback on overall pets health
 | -------- | -------- | -------- | -------- | -------- | -------- |
 | ***GRAND TOTAL*** | -------- | -------- | -------- | -------- | $50.30 (fee prices not locken in yet) |
 
-## How to use
-[WIP]
+## How to Build
+> [!NOTE]
+> It is reccomened to have prior knowlage in eletronics and sodering if you want to create one for youself!
+
+First download the PCB Gerber file from [here](https://github.com/Videocraft10/PetPad/tree/main/PCB%20Files) then send it to your perfered manufactuer! Next buy all of the componets from the BOM. For screws and similar items it is reccomened to find the cheapest in your location. Next 3D print the case from here [here](https://github.com/Videocraft10/PetPad/tree/main/Case%20Files) and ensure the PCB fits once it arrives. Next soder on all of the componets and screw the PCB into the case! Finally flash the firmware onto it from [here](https://github.com/Videocraft10/PetPad/tree/main/Firmware%20Files/PetPad_Firm) (you might have to build the file on you own computer)
+
+Tada! You now have a PetPad!
+
+(instructions on how to build will improves once I accually phisaclly build one myself :D)
+
 
 ## Software Used
 1. KiCAD
