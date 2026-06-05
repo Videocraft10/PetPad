@@ -87,15 +87,14 @@ Visible stats that change over time with visual feedback on overall pets health
 | 7 Pin Header | [C5360900](https://www.lcsc.com/product-detail/C5360900.html?spm=wm.gwc.dh.4.cbm___wm.mly.ssl.gwc&lcsc_vid=QwcNU1RVElVcAVECegBfXwdeFFZXVlUDQlMMBlFRRFQxVlNRQVZfV1NeRFVYVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhYS) | $0.0391 | 2 | Forced to buy 10 | $0.39 |
 | 4 Pin Header | [C42431787](https://www.lcsc.com/product-detail/C42431787.html?s_z=n_q_PZ2.54-1*4&spm=wm.fly.bg.10.xh&lcsc_vid=TgBXAwYAFVlYUAdXQVhcUVUFQABXXlJeElANBlxRQAIxVlNRTlFbUVRRQ1VcVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFBIk%3D) | $0.0207 | 1 | Forced to buy 20 | $0.41 |
 | Seeed Studio XIAO C6 DIP | [Amazon](https://www.amazon.com/ESP32C6-Supports-Bluetooth-802-15-4-Microsoft/dp/B0D2NKV334?th=1) | $11.99 | 1 | $0.79 tax | $12.78 |
-| Battery (500mAh) | [AliExpress](https://www.aliexpress.us/item/3256808031709894.html?channel=twinner) | $5.90 | 1 | NOTE: WELCOME DEAL USED, NORMAL PRICE $14.23 | $5.90 |
+| Battery (500mAh) | [AliExpress](https://www.aliexpress.us/item/3256808031709894.html?channel=twinner) | $1.06 | 1 | NOTE: INSANE SUMMER DEAL USED, NORMAL PRICE $14.23 | $1.06 |
 | Screws (M2.5 x 5mm) | [Homedepot](https://www.homedepot.com/p/Prime-Line-M2-5-0-45-x-5-mm-Grade-A2-70-Stainless-Steel-Phillips-Drive-Pan-Head-Metric-Machine-Screws-10-Pack-9130825/311229791?MERCH=REC-_-rv_search_plp_rr-_-n/a-_-0-_-n/a-_-n/a-_-n/a-_-n/a-_-n/a-_-n/a) | $0.433 | 4* | 10 pack | $4.33 |
 | Wires | [Adafruit](https://www.adafruit.com/product/3169) | $4.95 | less than a foot most likely | Silicone Cover Stranded-Core Wire - 50ft 30AWG | $4.95 |
-| Case PLA | ---------- | $8.34 for 1 kg | ---------- | Generic 3D printer PLA. Requires a 3D printer to use | ---------- |
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | *Total:* | ---------- | ---------- | ---------- | ---------- | $37.98 |
-| **Fees:** | ---------- | ---------- | ---------- | ---------- | ---------- |
-| Shipping | ---------- | ---------- | ---------- | ---------- | $9.32 |
-| Handling | ---------- | ---------- | ---------- | ---------- | $3 |
+| **Fees:** | LCSC Tax $1.25 | ---------- | ---------- | ---------- | [wip] |
+| Shipping | LCSC Shipping cost: $10.92 | ---------- | ---------- | ---------- | [wip]|
+| Handling | LCSC Handling $3 | ---------- | ---------- | ---------- | $3 |
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | ***TOTAL*** | ---------- | ---------- | ---------- | ---------- | $50.30 (fee prices not locked in yet) |
 
