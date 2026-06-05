@@ -102,9 +102,9 @@ Visible stats that change over time with visual feedback on overall pets health
 | Item | Discripton | Notes | Fees | -------- | Total |
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | 3D Printer PLA | Generic 3D printer PLA. Requires a 3D printer to use | Paid $8.34 for 1 kg | ---------- | ---------- | 46g used - $0.38 |
-| Sodering Iron | ---------- | Required to soder on components | ---------- | ---------- | $10 [here](https://www.amazon.com/Soldering-Digital-Welding-Portable-Electric/dp/B08R3515SF?crid=30SL6CYRR5QOM&dib=eyJ2IjoiMSJ9.tKWBCBm44gyjNSvFj51RHR3p5aTdCOPIkPv4zqdgg07Moy7biWvfE6YjBdwHnsMMUqJ5p1WsD_MQe5r0XLalW_yVXgv5tx_TBmzJ2sAt1If-sll8ak-_muURnXvGQ8DVMdb2n-LQRQO0gSH2GR3nmbYitK2dPQ3w6Pu08Y6wdY2s8pWVOnGJz7T9gRpbqCr_TALWvgprG9lNvJy1RXWeywEfL33os00Syai0ic4byZ-FLX-ZYRh2TATM8PfFfGRYe0N_YCACfh6VRKp0zii5u79dBTlHN-xO9SU5h5X_axQ.4EqxHoftylAQD1t5h9kA999EhPS51LAq9y_vrFTic5Y&dib_tag=se&keywords=soldering%2Biron&qid=1780680980&sprefix=sodering%2Bir%2Caps%2C290&sr=8-6&th=1) |
+| Sodering Iron | ---------- | Required to soder on components | ---------- | ---------- | $10.55 [here](https://www.amazon.com/Soldering-Digital-Welding-Portable-Electric/dp/B08R3515SF?crid=30SL6CYRR5QOM&dib=eyJ2IjoiMSJ9.tKWBCBm44gyjNSvFj51RHR3p5aTdCOPIkPv4zqdgg07Moy7biWvfE6YjBdwHnsMMUqJ5p1WsD_MQe5r0XLalW_yVXgv5tx_TBmzJ2sAt1If-sll8ak-_muURnXvGQ8DVMdb2n-LQRQO0gSH2GR3nmbYitK2dPQ3w6Pu08Y6wdY2s8pWVOnGJz7T9gRpbqCr_TALWvgprG9lNvJy1RXWeywEfL33os00Syai0ic4byZ-FLX-ZYRh2TATM8PfFfGRYe0N_YCACfh6VRKp0zii5u79dBTlHN-xO9SU5h5X_axQ.4EqxHoftylAQD1t5h9kA999EhPS51LAq9y_vrFTic5Y&dib_tag=se&keywords=soldering%2Biron&qid=1780680980&sprefix=sodering%2Bir%2Caps%2C290&sr=8-6&th=1) |
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| ***TOTAL*** | ---------- | ---------- | ---------- | ---------- | $10.38 |
+| ***TOTAL*** | ---------- | ---------- | ---------- | ---------- | $10.93 |
 
 
 ***GRAND TOTAL*** = $60.68
