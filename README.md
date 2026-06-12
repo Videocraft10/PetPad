@@ -118,7 +118,7 @@ First download the PCB Gerber file from [here](https://github.com/Videocraft10/P
 
 Tada! You now have a PetPad!
 
-(instructions on how to build will improves once I actually phisaclly build one myself :D)
+(instructions on how to build will improves once I actually physically build one myself :D)
 
 
 ## Software Used
