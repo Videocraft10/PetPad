@@ -1,0 +1,33 @@
+## BOM
+*Amount used is to make ****ONE**** PetPad*
+
+Item,LCSC # / Item Links,Single Cost,Amount Used,Fees/Notes,Total Price
+----------,----------,----------,----------,----------,----------
+**PCB:**,----------,$2,1,$3.12 for shipping,$5.12
+----------,----------,----------,----------,----------,----------
+**Components:**,----------,----------,----------,----------,----------
+OLED Screen,[C5248080](https://www.lcsc.com/product-detail/C5248080.html?spm=wm.gwc.xh.0.cbm___wm.mly.ssl.gwc&lcsc_vid=QwcNU1RVElVcAVECegBfXwdeFFZXVlUDQlMMBlFRRFQxVlNRQVZfV1NeRFVYVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhYS),$2.32,1,----------,$2.32
+Buzzer,[C49246964](https://www.lcsc.com/product-detail/C49246964.html?spm=wm.gwc.xh.1.cbm___wm.mly.ssl.gwc&lcsc_vid=QwcNU1RVElVcAVECegBfXwdeFFZXVlUDQlMMBlFRRFQxVlNRQVZfV1NeRFVYVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhYS),$0.0569,1,Forced to buy 10,$0.57
+Buttons,[C2888493](https://www.lcsc.com/product-detail/C2888493.html?spm=wm.gwc.xh.2.cbm___wm.mly.ssl.gwc&lcsc_vid=QwcNU1RVElVcAVECegBfXwdeFFZXVlUDQlMMBlFRRFQxVlNRQVZfV1NeRFVYVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhYS),$0.0107,3,Forced to buy 50,$0.54
+JST Battery Connector,[C131337](https://www.lcsc.com/product-detail/C131337.html?spm=wm.gwc.xh.3.cbm___wm.mly.ssl.gwc&lcsc_vid=QwcNU1RVElVcAVECegBfXwdeFFZXVlUDQlMMBlFRRFQxVlNRQVZfV1NeRFVYVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhYS),$0.0336,1,Forced to buy 20,$0.67
+7 Pin Header,[C5360900](https://www.lcsc.com/product-detail/C5360900.html?spm=wm.gwc.dh.4.cbm___wm.mly.ssl.gwc&lcsc_vid=QwcNU1RVElVcAVECegBfXwdeFFZXVlUDQlMMBlFRRFQxVlNRQVZfV1NeRFVYVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhYS),$0.0391,2,Forced to buy 10,$0.39
+4 Pin Header,[C42431787](https://www.lcsc.com/product-detail/C42431787.html?s_z=n_q_PZ2.54-1*4&spm=wm.fly.bg.10.xh&lcsc_vid=TgBXAwYAFVlYUAdXQVhcUVUFQABXXlJeElANBlxRQAIxVlNRTlFbUVRRQ1VcVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFBIk%3D),$0.0207,1,Forced to buy 20,$0.41
+Seeed Studio XIAO C6 DIP,[Amazon](https://www.amazon.com/ESP32C6-Supports-Bluetooth-802-15-4-Microsoft/dp/B0D2NKV334?th=1),$11.99,1,$0.79 tax,$12.78
+Battery (500mAh),[AliExpress](https://www.aliexpress.us/item/3256808031709894.html?channel=twinner),$1.06,1,"NOTE: INSANE SUMMER DEAL USED, NORMAL PRICE $14.23",$1.06
+Screws (M2.5 x 5mm),[Homedepot](https://www.homedepot.com/p/Prime-Line-M2-5-0-45-x-5-mm-Grade-A2-70-Stainless-Steel-Phillips-Drive-Pan-Head-Metric-Machine-Screws-10-Pack-9130825/311229791?MERCH=REC-_-rv_search_plp_rr-_-n/a-_-0-_-n/a-_-n/a-_-n/a-_-n/a-_-n/a-_-n/a),$0.433,4*,10 pack,$4.33
+Wires,[Amazon]([https://www.adafruit.com/product/3169](https://www.amazon.com/Fielect-Enamelled-Winding-Polyurethane-QA-1-155/dp/B082SGDHTT?crid=3POIXT4TOZV8X&dib=eyJ2IjoiMSJ9.w1oH9WPINFywtT7OZmtCDgLDk6IalWVSzi-2-7GuMHuAPawm0k5yT119lFJsF-rJH-uHs1I6qLnd9nLMCaqdH9MYihqoa674noTX4nhzVrpOPF2dk22GB7aIry3RNpuRB0zNbsu97DY79lzWdZ6XJ33oz2e59S97eLn6YiI83coYrCRFQhUi4AvRZS7napdcofGfUDidzUne8SnBlVEOhJjXlK1cI0EN0Mv34Ps6HmY.9FjyuD3y8xoHDIwdMniIMM2knZN64d8aVcBDNQr6chU&dib_tag=se&keywords=30%2Bawg%2Benameled%2Bmagnet%2Bwire&qid=1780683570&sprefix=30%2Bawg%2B%2Caps%2C362&sr=8-4)),$7.48,less than a foot most likely (WILL HAVE A TON LEFT OVER SO IF YOU HAVE SOMTHING SIMILAR DO NOT BUY),30 AWG Magnet Wire Enameled Copper Wire,$7.45
+----------,----------,----------,----------,----------,----------
+*Total:*,----------,----------,----------,----------,$37.98
+**Fees:**,LCSC Tax $1.25,----------,----------,----------,[wip]
+Shipping,LCSC Shipping cost: $10.92,----------,----------,----------,[wip]
+Handling,LCSC Handling $3,----------,----------,----------,$3
+----------,----------,----------,----------,----------,----------
+***TOTAL***,----------,----------,----------,----------,$50.30 (fee prices not locked in yet)
+
+## Build BOM
+Item,Discripton,Notes,Fees,--------,Total
+----------,----------,----------,----------,----------,----------
+3D Printer PLA,Generic 3D printer PLA. Requires a 3D printer to use,Paid $8.34 for 1 kg,----------,----------,46g used - $0.38
+Sodering Iron,----------,Required to soder on components,----------,----------,$10.55 [here](https://www.amazon.com/Soldering-Digital-Welding-Portable-Electric/dp/B08R3515SF?crid=30SL6CYRR5QOM&dib=eyJ2IjoiMSJ9.tKWBCBm44gyjNSvFj51RHR3p5aTdCOPIkPv4zqdgg07Moy7biWvfE6YjBdwHnsMMUqJ5p1WsD_MQe5r0XLalW_yVXgv5tx_TBmzJ2sAt1If-sll8ak-_muURnXvGQ8DVMdb2n-LQRQO0gSH2GR3nmbYitK2dPQ3w6Pu08Y6wdY2s8pWVOnGJz7T9gRpbqCr_TALWvgprG9lNvJy1RXWeywEfL33os00Syai0ic4byZ-FLX-ZYRh2TATM8PfFfGRYe0N_YCACfh6VRKp0zii5u79dBTlHN-xO9SU5h5X_axQ.4EqxHoftylAQD1t5h9kA999EhPS51LAq9y_vrFTic5Y&dib_tag=se&keywords=soldering%2Biron&qid=1780680980&sprefix=sodering%2Bir%2Caps%2C290&sr=8-6&th=1)
+----------,----------,----------,----------,----------,----------
+***TOTAL***,----------,----------,----------,----------,$10.93
