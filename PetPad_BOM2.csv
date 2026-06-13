@@ -1,0 +1,20 @@
+Item,Link/Description,Single Cost,Amount Used,Notes,Total Price
+PCB,-,$2.00,1,$3.12 for shipping,$5.12
+OLED Screen,https://www.lcsc.com/product-detail/C5248080.html,$2.32,1,-,$2.32
+Buzzer,https://www.lcsc.com/product-detail/C49246964.html,$0.0569,1,Forced to buy 10,$0.57
+Buttons,https://www.lcsc.com/product-detail/C2888493.html,$0.0107,3,Forced to buy 50,$0.54
+JST Battery Connector,https://www.lcsc.com/product-detail/C131337.html,$0.0336,1,Forced to buy 20,$0.67
+7 Pin Header,https://www.lcsc.com/product-detail/C5360900.html,$0.0391,2,Forced to buy 10,$0.39
+4 Pin Header,https://www.lcsc.com/product-detail/C42431787.html,$0.0207,1,Forced to buy 20,$0.41
+Seeed Studio XIAO C6 DIP,https://www.amazon.com/ESP32C6-Supports-Bluetooth-802-15-4-Microsoft/dp/B0D2NKV334,$11.99,1,$0.79 tax,$12.78
+Battery (500mAh),https://www.aliexpress.us/item/3256808031709894.html,$1.06,1,"NOTE: INSANE SUMMER DEAL USED, NORMAL PRICE $14.23",$1.06
+Screws (M2 x 5mm),https://www.homedepot.com/p/Prime-Line-M2-5-0-45-x-5-mm-Grade-A2-70-Stainless-Steel-Phillips-Drive-Pan-Head-Metric-Machine-Screws-10-Pack-9130825/311229791,$0.433,4,10 pack,$4.33
+Wires,https://www.amazon.com/Fielect-Enamelled-Winding-Polyurethane-QA-1-155/dp/B082SGDHTT,$7.48,less than a foot,"30 AWG Magnet Wire. WILL HAVE A TON LEFT OVER SO IF YOU HAVE SOMTHING SIMILAR DO NOT BUY",$7.45
+Subtotal,-,-,-,-,$37.98
+LCSC Tax,-,-,-,-,$1.25
+LCSC Shipping,-,-,-,-,$10.92
+LCSC Handling,-,-,-,-,$3.00
+TOTAL (PetPad Estimated),-,-,-,fee prices not locked in yet,$50.30
+3D Printer PLA,Generic 3D printer PLA. Requires a 3D printer to use.,$8.34 for 1 kg,46g used,-,$0.38
+Soldering Iron,https://www.amazon.com/Soldering-Digital-Welding-Portable-Electric/dp/B08R3515SF,$10.55,1,Required to solder on components,$10.55
+TOTAL (Build Tools),-,-,-,-,$10.93
