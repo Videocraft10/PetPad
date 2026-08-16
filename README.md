@@ -5,7 +5,8 @@
 Custom-Made Tamagotchi-Like Device
 
 ## Features
-<img width="2480" height="3508" alt="Videocraft PetPad Zine v1" src="https://github.com/user-attachments/assets/accfe757-8549-40c8-867c-5013030798f9" />
+<img width="2480" height="3508" alt="Videocraft PetPad Zine v1 BUILD" src="https://github.com/user-attachments/assets/86bb3410-7b5b-4117-a43b-d866ebbea222" />
+
 
 
 ### Physical
